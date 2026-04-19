@@ -5,4 +5,4 @@ title: Cover Letter
 
 # Cover Letter
 
-[Paste your cover letter here]
+(https://github.com/BrandonG1018/ENC3241/blob/main/Revised_Cover%20Leader.pdf)
