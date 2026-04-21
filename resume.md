@@ -4,10 +4,10 @@ title: Resume
 ---
 
 # Resume
-<iframe
-  src="[https://github.com/BrandonG1018/ENC3241/blob/main/Brandon%20Ginarte%20Resume.pdf]"
+<embed
+  src="file:///C:/Users/brand/Downloads/Brandon%20Ginarte%20Resume%20(1).pdf"
+  type="application/pdf"
   width="100%"
-  height="600px"
-  style="border: none;"
-></iframe>
+  height="500px"
+/>
 
