@@ -22,7 +22,6 @@ Figure 1. "Open Washing Machine doors" \[Photo by alamy\]
 Step 2) Put dirty clothes inside the open chamber while not passing the white cylinder in the center(Figure 2).
 
 
-
 ![alt text](Picture2.jpg)
 
 Figure 2. "Loading laundry into the machine" \[Photo by lead household\]
